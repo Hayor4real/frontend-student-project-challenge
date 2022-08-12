@@ -3,12 +3,14 @@ Frontend working Student Challenge
 A bootstrap example to embed d3.js histogram in a simple HTML page.
 
 To create a single HTML page, the page was designed using https://getbootstrap.com with
-jsDelivr,
+
+<!-- jsDelivr, -->
+
 a free open source CDN including jQuery and Popper.js and a few custom internal CSS.
 
 The page is made up of a bootstrap sticky footer, navbar with (menu links) and d3.js histogram.
 
-D3.js histogram is loaded by the d3.js javascript library from https://d3js.org/d3.v4.js and 
+D3.js histogram is loaded by the d3.js javascript library from https://d3js.org/d3.v4.js and
 then displayed by an internal d3.js javascript code.
 
 No additional dependencies or 3rd party libraries were installed, the entire page was designed
